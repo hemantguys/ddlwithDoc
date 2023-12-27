@@ -6,6 +6,7 @@ public class DemoClass
 	{
 		System.out.println("This is my first project");
 		System.out.println("This is my second line of code");
+		System.out.println("This is my second line of code");
 	}
 
 }
